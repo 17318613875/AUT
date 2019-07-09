@@ -1,0 +1,16 @@
+{
+  "name": "selenium-tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "彭斌斌",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^75.0.1",
+    "iedriver": "^3.14.1",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
